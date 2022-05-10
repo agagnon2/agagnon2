@@ -7,9 +7,8 @@
   <p align="left"></p>
 
 - 🌱 I’m currently working on an auto-reply Slack bot powered by Coveo's Machine Learning! [currently WIP](https://github.com/agagnon2/autoreply-coveo-slack-bot-fork)
-- 😄 Currently learning more about Data Science, Machine Learning Observability and 
+- 😄 Currently learning more about Data Science, Machine Learning Observability and Web Development!
 - 👯 I’m looking to collaborate on Open-Source project!
-- 🤔 I’m looking for help with 
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agagnon2&show_icons=true&theme=gotham" alt="agagnon2" />
