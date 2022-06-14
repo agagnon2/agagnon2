@@ -6,8 +6,8 @@
    <h1 align="center">Hi there 👋, I'm Alexandre Gagnon</h1>  
   <p align="left"></p>
 
-- 🌱 I’m currently working on an auto-reply Slack bot powered by Coveo's Machine Learning! [currently WIP](https://github.com/agagnon2/autoreply-coveo-slack-bot-fork)
-- 😄 Currently learning more about Data Science, Machine Learning Observability and Web Development!
+- 🌱 I’m currently onboarding at [Sama](https://www.linkedin.com/company/sama-ai/).
+- 😄 Currently learning more about highly saclable backend designs, data science and data annotation.
 - 👯 I’m looking to collaborate on Open-Source project!
 
 
