@@ -11,8 +11,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agagnon2&show_icons=true&theme=gotham" alt="agagnon2" />
   
-  ------------   
- [![LinkedIn][linkedin-shield]][linkedin-url]  $\qquad$ $\qquad$ $\qquad$  $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$  $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$  ![](https://visitor-badge.glitch.me/badge?page_id=agagnon2.visitor-badge) $\qquad$ 
   
   
 <!-- MARKDOWN LINKS & IMAGES -->
